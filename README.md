@@ -54,7 +54,7 @@ Its Milestones:
     Oct, 29, 2020  Key functions combined with cloud computing outputs.
     Nov, 16, 2020  360k-node network varietions verification.
     Feb, 2,  2021  Final combination of 'main-module' Python pacakage.
-    Mar, 2,  2021  First open this version on Github and IEEE CloudOcean.
+    Mar, 2,  2021  First open this version on Github and IEEE Codeocean.
     
 Contact person:
 
