@@ -45,7 +45,8 @@ Limitations of 'Interconnected SEIRAH':
     1. Target social networks. It is suitable for metropolitan scale simulation.
        If much more extensive, such as national scale, the intervention estimator results become meaningless.
        If much smaller, the stochastic processing results will not reliable enough.
-    2. Computating time. The causal inference processes inside cost many hours, even on a high-performance cloud server.
+    2. Computating time. The current causal inference processes inside cost many hours, 
+       even on a high-performance cloud server.
        We will improve it in future work. This work is just a start-up and verifies the fundamental algorithms.
     
 Its Milestones:
