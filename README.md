@@ -1,7 +1,8 @@
-# Intconnected_SEIRAH
+# Interconnected_SEIRAH
 An Extended Epidemic Model on Interconnected Networks for COVID-19 to Explore the Epidemic Dynamics
 
 Purpose:
+
     Experiment attached to our research paper titled “An Extended Epidemic Model
     on Interconnected Networks for COVID-19 to Explore the Epidemic Dynamics”. 
     This paper was coauthored by Ou Deng, Kiichi Tago, and Qun Jin. 
