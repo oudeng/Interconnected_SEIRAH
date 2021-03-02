@@ -40,7 +40,9 @@ What 'Interconnected SEIRAH' can do:
 
 Limitations of 'Interconnected SEIRAH':
 
-    1. Target social networks. It is suitable for metropolitan scale simulation. If much more extensive, such as national scale, the intervention estimator results become meaningless. If much smaller, the stochastic processing results will not reliable enough.
+    1. Target social networks. It is suitable for metropolitan scale simulation.
+       If much more extensive, such as national scale, the intervention estimator results become meaningless.
+       If much smaller, the stochastic processing results will not reliable enough.
     2. Computating time. Inside causal inference processes cost much time.
     
 Its Milestones:
