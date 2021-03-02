@@ -9,6 +9,7 @@ Purpose:
     Faculty of Human Sciences, Waseda University
 
 Environment:
+
     1. Software: Python 3.7 with NetworkX library.
     2. Hardware: Alicloud (high performance computing is necessary)
     
