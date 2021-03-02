@@ -12,7 +12,8 @@ Purpose:
 Environment:
 
     1. Software: Python 3.7 with NetworkX library.
-    2. Hardware: Alicloud (high performance computing is necessary)
+    2. Hardware: Alicloud or similar high performance computing. 
+       (*Be cautious for too much computing time on a desktop Python environment.)
     
 Experiment package includes:
 
@@ -44,13 +45,15 @@ Limitations of 'Interconnected SEIRAH':
     1. Target social networks. It is suitable for metropolitan scale simulation.
        If much more extensive, such as national scale, the intervention estimator results become meaningless.
        If much smaller, the stochastic processing results will not reliable enough.
-    2. Computating time. Inside causal inference processes cost much time.
+    2. Computating time. The causal inference processes inside cost many hours, even on a high-performance cloud server.
+       We will improve it in future work. This work is just a start-up and verifies the fundamental algorithms.
     
 Its Milestones:
 
-    Oct, 29, 2020  Full functions combined with cloud computing outputs.
+    Oct, 29, 2020  Key functions combined with cloud computing outputs.
     Nov, 16, 2020  360k-node network varietions verification.
     Feb, 2,  2021  Final combination of 'main-module' Python pacakage.
+    Mar, 2,  2021  First open this version on Github and IEEE CloudOcean.
     
 Contact person:
 
